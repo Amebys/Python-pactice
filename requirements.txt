@@ -1,0 +1,9 @@
+Здесь указано то что надо установить для работоспособности кода:
+MySql
+MySql Workbench (установится вместе с MySql)
+Библиотеки Python:
+configparser
+mysql-connector
+mysql-connector-python
+flask
+jsonify
